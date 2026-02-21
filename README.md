@@ -6,7 +6,7 @@ Gone are the days of one-size-fits-all chatbots that lack personalization and fa
 
 # How To Run Locally:
 - clone this repository <br/>
-  `https://github.com/Saixharan197/LLM-_Agriculture_bot.git`
+  `https://github.com/Saicharan197/LLM-_Agriculture_bot.git`
 
 -  Install All The Required Libraries <br>
     `pip install - r requirements.txt`
